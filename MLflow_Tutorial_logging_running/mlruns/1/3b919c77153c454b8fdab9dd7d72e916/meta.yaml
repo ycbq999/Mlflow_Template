@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/3b919c77153c454b8fdab9dd7d72e916/artifacts
+end_time: 1699512909177
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3b919c77153c454b8fdab9dd7d72e916
+run_uuid: 3b919c77153c454b8fdab9dd7d72e916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699512906607
+status: 3
+tags: []
+user_id: codespace
