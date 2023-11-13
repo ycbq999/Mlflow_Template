@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlflow_Test/MLflow_Registry_Tutorial/mlruns/0/4dcfa76f9bb34797b77b77668516c6f8/artifacts
+end_time: 1699604477617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4dcfa76f9bb34797b77b77668516c6f8
+run_uuid: 4dcfa76f9bb34797b77b77668516c6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699604475775
+status: 3
+tags: []
+user_id: codespace

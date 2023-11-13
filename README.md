@@ -33,4 +33,13 @@ mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root /t
 
 this will show you create an empty registered model from the server and you can then create a model using UI
 
-## or step do follow offical tutoial
+## step 2  do following  offical tutoial on Tutorial.ipynb
+
+[MLflow](https://mlflow.org/docs/latest/model-registry.html)
+
+This gives you direct way of logging MLflow Registry
+
+## step 3 run Forecasting Wind Power.ipynb
+
+This tutorial give you a thorough run through for a project. You can treat it as a template for MLflow 
+
